@@ -1,0 +1,6 @@
+train: ./images/train
+val: ./images/valid
+test: ./images/test
+
+nc: 5
+names: ['footwear', 'gloves', 'helmet', 'null', 'vest']
